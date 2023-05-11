@@ -1,1 +1,5 @@
-# django-user-passes-test-with-403
+# Django `UserPassesTestMixin` Example with Custom `403` Forbidden Template
+
+## PyPI Packages
+
+* <https://pypi.org/project/Django/>
